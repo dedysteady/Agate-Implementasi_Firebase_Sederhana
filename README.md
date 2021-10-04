@@ -8,4 +8,4 @@ This Project for Independen Study at Agate Academy
 - Change character when unlock achievement
 
 # How To Run
-Open The build version of the game in the build folder. Then run .exe file and setup prefered resolution size
+Download Apk in Release and install to your Android
