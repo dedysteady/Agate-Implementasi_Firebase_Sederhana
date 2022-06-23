@@ -1,4 +1,11 @@
 # Implementasi Firebase Sederhana - Incremental Game
+
+![Downloads](https://img.shields.io/github/downloads/dedysteady/Implementasi_Firebase_Sederhana/total)
+![HitCount](https://hits.dwyl.com/dedysteady/Agate-Implementasi_Firebase_Sederhana.svg?style=flat&show=unique)
+![Issues](https://img.shields.io/github/issues/dedysteady/Agate-Implementasi_Firebase_Sederhana)
+![Forks](https://img.shields.io/github/forks/dedysteady/Agate-Implementasi_Firebase_Sederhana)
+![Stars](https://img.shields.io/github/stars/dedysteady/Agate-Implementasi_Firebase_Sederhana)
+
 This project for Chapter 8 on Dilo Academy
 
 # Branch
